@@ -26,6 +26,6 @@ def using_concat(arr1,arr2)
   arr1.contact(arr2)
 end
 
-def using_insert(array,arr2)
-  arr1.contact(arr2)
+def using_insert(array,element)
+  arr1.insert(element)
 end
